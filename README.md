@@ -1,4 +1,4 @@
- [![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:ff8c00&height=200&section=header&text= Abhishek&fontSize=60&fontColor=ffffff&desc=Frontend%20Developer%20•%20React%20|%20JavaScript%20|%20Node.js&descAlignY=65&descSize=18)](https://github.com/abhishek01826)
+[![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:ff8c00&height=220&section=header&text=Abhishek%20Agnihotri&fontSize=50&fontColor=ffffff&desc=Frontend%20Developer%20•%20React%20|%20JavaScript%20|%20Node.js&descAlignY=65&descSize=18&animation=fadeIn)](https://github.com/abhishek01826)
 
 ### · ABOUT ·
 
@@ -35,9 +35,8 @@ Frontend Developer building clean, responsive web experiences — from pixel-per
 | **[ASTRO](your-link)**<br>product detail page | HTML · CSS · JS | [site →](your-link) |
 | **[Gunaforycter](your-link)**<br>restaurant menu page | HTML · CSS · JS | [site →](your-link) |
 
+---
 
+### · STATS ·
 
-[![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:ff8c00&height=100&section=footer)](https://github.com/abhishek01826)
-
-
-
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=abhishek01826&theme=radical&hide_border=true)
