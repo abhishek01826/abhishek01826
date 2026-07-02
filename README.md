@@ -1,4 +1,4 @@
- [![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:ff8c00&height=200&section=header&text=Abhishek&fontSize=60&fontColor=ffffff&desc=Frontend%20Developer%20•%20React%20|%20JavaScript%20|%20Node.js&descAlignY=65&descSize=18)](https://github.com/abhishek01826)
+ [![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:ff8c00&height=200&section=header&text= Abhishek&fontSize=60&fontColor=ffffff&desc=Frontend%20Developer%20•%20React%20|%20JavaScript%20|%20Node.js&descAlignY=65&descSize=18)](https://github.com/abhishek01826)
 
 ### · ABOUT ·
 
