@@ -46,4 +46,4 @@ Frontend Developer building clean, responsive web experiences — from pixel-per
 [![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:ff8c00&height=100&section=footer)](https://github.com/abhishek01826)
 
 
-![Snake animation](https://raw.githubusercontent.com/abhishek01826/abhishek01826/output/github-contribution-grid-snake.svg)
+
