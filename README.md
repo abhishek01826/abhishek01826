@@ -1,17 +1,49 @@
- Hi there 👋, I'm Abhishek
+ [![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:ff8c00&height=200&section=header&text=Abhishek&fontSize=60&fontColor=ffffff&desc=Frontend%20Developer%20•%20React%20|%20JavaScript%20|%20Node.js&descAlignY=65&descSize=18)](https://github.com/abhishek01826)
 
- 🔭 Frontend Developer | React | JavaScript | Node.js
- 🌱 Currently learning Open Source contribution
- 💬 Ask me about React, JavaScript, HTML/CSS
- 📫 Reach me: your-email@gmail.com
- 🔗 [LinkedIn](your-link) | [Portfolio](your-link)
+### · ABOUT ·
 
+**The short version**
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+Frontend Developer building clean, responsive web experiences — from pixel-perfect UI to smooth interactions that make it all feel real.
+
+---
+
+### · FIND ME ·
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishek01826)
+
+---
+
+![snake gif](https://github.com/abhishek01826/abhishek01826/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### · TOOLKIT ·
+
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,figma,tailwind)
+
+---
+
+### · FEATURED ·
+
+| Project | Stack | Live |
+|---|---|---|
+| **[ScaleX](your-link)**<br>dark-themed blog/insights page | HTML · CSS · JS | [site →](your-link) |
+| **[ASTRO](your-link)**<br>product detail page | HTML · CSS · JS | [site →](your-link) |
+| **[Gunaforycter](your-link)**<br>restaurant menu page | HTML · CSS · JS | [site →](your-link) |
+
+---
+
+### · STATS ·
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek01826&show_icons=true&theme=radical&hide_border=true)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=abhishek01826&theme=radical&hide_border=true)
+
+[![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:ff8c00&height=100&section=footer)](https://github.com/abhishek01826)
 
 
 ![Snake animation](https://raw.githubusercontent.com/abhishek01826/abhishek01826/output/github-contribution-grid-snake.svg)
