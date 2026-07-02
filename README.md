@@ -6,7 +6,7 @@
  📫 Reach me: your-email@gmail.com
  🔗 [LinkedIn](your-link) | [Portfolio](your-link)
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek01826&show_icons=true&theme=radical)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
