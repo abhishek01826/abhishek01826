@@ -11,7 +11,7 @@ Frontend Developer building clean, responsive web experiences — from pixel-per
 ### · FIND ME ·
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://www.linkedin.com/in/abhishekagnihotri18/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek01826/)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishek01826)
 
