@@ -39,6 +39,6 @@ Frontend Developer building clean, responsive web experiences — from pixel-per
 
 ### · STATS ·
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=abhishek01826&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=abhishek01826&theme=radical&hide_border=true)
 
 [![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:ff8c00&height=100&section=footer)](https://github.com/abhishek01826)
