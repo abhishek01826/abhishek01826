@@ -31,9 +31,9 @@ Frontend Developer building clean, responsive web experiences — from pixel-per
 
 | Project | Stack | Live |
 |---|---|---|
-| **[ScaleX](your-link)**<br>dark-themed blog/insights page | HTML · CSS · JS | [site →](your-link) |
-| **[ASTRO](your-link)**<br>product detail page | HTML · CSS · JS | [site →](your-link) |
-| **[Gunaforycter](your-link)**<br>restaurant menu page | HTML · CSS · JS | [site →](your-link) |
+| **[To-Do List](https://to-do-list-4dkp.vercel.app/)**<br>dark-themed blog/insights page | HTML · CSS · JS | [site →](https://to-do-list-4dkp.vercel.app/) |
+| **[SkyCast](https://sky-cast-qryfgbx4b-abhishek01826s-projects.vercel.app/)**<br>product detail page | HTML · CSS · JS | [site →](https://sky-cast-qryfgbx4b-abhishek01826s-projects.vercel.app/) |
+
 
 ---
 
