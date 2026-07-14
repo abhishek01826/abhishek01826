@@ -31,8 +31,8 @@ Frontend Developer building clean, responsive web experiences — from pixel-per
 
 | Project | Stack | Live |
 |---|---|---|
-| **[To-Do List](https://to-do-list-4dkp.vercel.app/)**<br>dark-themed blog/insights page | HTML · CSS · JS | [site →](https://to-do-list-4dkp.vercel.app/) |
-| **[SkyCast](https://sky-cast-qryfgbx4b-abhishek01826s-projects.vercel.app/)**<br>product detail page | HTML · CSS · JS | [site →](https://sky-cast-qryfgbx4b-abhishek01826s-projects.vercel.app/) |
+| **[To-Do List](https://to-do-list-4dkp.vercel.app/)**<br>A clean to-do list app to add, edit, complete, and delete tasks | HTML · CSS · JS | [site →](https://to-do-list-4dkp.vercel.app/) |
+| **[SkyCast](https://sky-cast-qryfgbx4b-abhishek01826s-projects.vercel.app/)**<br>A weather app with real-time forecasts | HTML · CSS · JS | [site →](https://sky-cast-qryfgbx4b-abhishek01826s-projects.vercel.app/) |
 
 
 ---
